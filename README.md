@@ -7,7 +7,7 @@ Microcontrolleur actuellement utilise par Bordeaux
 ![alt tag](https://github.com/ele795/beliot/blob/master/images/micro_pinout.png)
 
 Module LoRa utilise
-![alt tag](https://github.com/ele795/beliot/blob/master/images/lora_emitter_receiver.png)
+![alt tag](https://github.com/ele795/beliot/blob/master/images/modtronix_InAir9B.png)
 
 
 
